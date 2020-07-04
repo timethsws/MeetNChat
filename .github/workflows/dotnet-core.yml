@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Setup .NET Core
-      uses: actions/setup-dotnet@v1
+      uses: coderpatros/setup-dotnet@sxs
       with:
         dotnet-version: 2.1.807,3.1.301
     - name: Install dependencies
