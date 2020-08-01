@@ -48,5 +48,3 @@ namespace MeetNChat.Server.Models
         }
     }
 }
-
-}
