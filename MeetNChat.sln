@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetNChat.Server", "MeetNChat\Server\MeetNChat.Server.csproj", "{737B139A-7180-47A5-840A-370A03DC93F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetNChat.Server", "MeetNChat\Server\MeetNChat.Server.csproj", "{737B139A-7180-47A5-840A-370A03DC93F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetNChat.Client", "MeetNChat\Client\MeetNChat.Client.csproj", "{47A9CB04-A939-4579-BA34-B662E0D87D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetNChat.Client", "MeetNChat\Client\MeetNChat.Client.csproj", "{47A9CB04-A939-4579-BA34-B662E0D87D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetNChat.Shared", "MeetNChat\Shared\MeetNChat.Shared.csproj", "{49052BAE-5E8D-46CF-A77E-7CBEF9E74F44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetNChat.Shared", "MeetNChat\Shared\MeetNChat.Shared.csproj", "{49052BAE-5E8D-46CF-A77E-7CBEF9E74F44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

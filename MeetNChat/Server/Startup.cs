@@ -13,6 +13,7 @@ using Microsoft.Extensions.Hosting;
 using System.Linq;
 using MeetNChat.Server.Data;
 using MeetNChat.Server.Models;
+using MeetNChat.Shared.Entities;
 
 namespace MeetNChat.Server
 {

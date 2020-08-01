@@ -1,5 +1,26 @@
-﻿<h3>ChatApp</h3>
+﻿@page "/chat"
+@using MeetNChat.Shared.Entities
+
+<div class="sidebar">
+    <ChatList />
+</div>
+
+<div class="main">
+    <div class="content">
+        <MessagesView />
+    </div>
+</div>
 
 @code {
+    List<ChatMessage> messages = new List<ChatMessage>()
+{
+        new ChatMessage
+        {
+            Content = "Test message one",
+@*Sender =*@
+        }
+    };
+
+        ChatMessage message = new ChatMessage();
 
 }

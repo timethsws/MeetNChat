@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
+using MeetNChat.Shared.Entities;
 
 namespace MeetNChat.Server.Areas.Identity.Pages.Account
 {
